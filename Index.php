@@ -93,7 +93,7 @@
         </div>
         <div class="entrance-roof">
         </div>
-    </div>
+    </div></div>
 <div class="hint">
     <svg width="10" height="20" viewBox="0 0 420 503">
         <path d="M219.5 352.844C207.887 169.969 155.867 96.0442 0 3.84404C0 3.84404 152.5 -28.656 245.5 95.344C338.5 219.344 332.5 352.844 332.5 352.844H419.5L274.5 502.344L129.5 352.844H219.5Z"
@@ -120,7 +120,7 @@
     <div class="star"></div>
     <div class="star"></div>
 </div>
-<script src="scipt.js"></script>
+<!--<script src="scipt.js"></script>-->
 </body>
 
 </html>

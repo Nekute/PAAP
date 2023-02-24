@@ -35,15 +35,16 @@ body {
     justify-content: flex-end;
     flex-direction: column;
     position: fixed;
-    z-index: 56;
+    z-index: 5;
+    bottom: 150px;
 }
 #houseLogo{
-    width: 230px;
+    width: 0;
 }
 .housedrop{
     display: flex;
     width: 100%;
-    height: 450px;
+    height: 0;
     background-color: rgba(155, 202, 250, 0);
     position: fixed;
     gap: 25px;
